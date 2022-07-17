@@ -5,4 +5,4 @@ Queue_pred is the main script to use the samples from the first 80 covariate poi
 Acknowledgement:
 The code to calculate the SK models (see the "reference (SK models)" folder) is adapted from the following sources:
 1. http://users.iems.northwestern.edu/~nelsonb/SK/
-2. http://www.sugli.sjtu.edu.cn/teacher1/2348.html
+2. https://simopt.github.io/
