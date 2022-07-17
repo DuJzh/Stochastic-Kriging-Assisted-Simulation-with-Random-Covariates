@@ -1,6 +1,6 @@
 # Li, Gao, and Du 2022. Stochastic Kriging-Assisted Simulation with Random Covariates. 
 
-Comparing the random design with the adaptives procedures:
+Comparing the random design with the adaptive procedures:
 
   "comparison with hetGP package" contains the scripts comparing the random design with hetGP package (in Binois et al. 2019),
 
