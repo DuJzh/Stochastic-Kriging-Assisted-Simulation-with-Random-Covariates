@@ -10,7 +10,7 @@ Comparing the random design with the adatives procedures:
 
   "d3" contains the scripts comparing the random design with the Adaptive MSE procedure in the three-dimensional benchmark function examples,
 
-  "d10" contains the scripts comparing the random design with the Adaptive MSE procedure in the ten-dimensional benchmark function examples,
+  "d10" contains the scripts comparing the random design with the Adaptive MSE procedure in the ten-dimensional benchmark function examples.
   
   
 
