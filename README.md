@@ -9,7 +9,3 @@ folders that contain the scripts for the benchmark function examples:
 "d10" corresponds to the ten-dimensional cases.
 
 
-Acknowledgements:
-A part of the scripts to calculate the SK models is adapted from the following sources:
-1. http://users.iems.northwestern.edu/~nelsonb/SK/
-2. http://www.sugli.sjtu.edu.cn/teacher1/2348.html
