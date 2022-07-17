@@ -1,6 +1,7 @@
 # Simulation-with-Covariates
 
-Li, Gao, and Du 2022
+Li, Gao, and Du 2022:
+
 "queue" folder contains the scripts for the M/M/1 queue example;
 
 folders that contain the scripts for the benchmark function examples:
