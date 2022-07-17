@@ -6,12 +6,12 @@ Li, Gao, and Du 2022:
 
 folders that contain the scripts for the benchmark function examples:
 
-"d1" corresponds to the one-dimensional cases,
+  "d1" corresponds to the one-dimensional cases,
 
-"d2" corresponds to the two-dimensional cases,
+  "d2" corresponds to the two-dimensional cases,
 
-"d3" corresponds to the three-dimensional cases,
+  "d3" corresponds to the three-dimensional cases,
 
-"d10" corresponds to the ten-dimensional cases.
+  "d10" corresponds to the ten-dimensional cases.
 
 
